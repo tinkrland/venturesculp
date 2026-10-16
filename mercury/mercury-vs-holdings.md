@@ -15,7 +15,8 @@ loans, international wires.
 **holdings** (getholdings.com): banking + invoicing + books in one
 account, positioned as software an ai agent can run (chatgpt /
 claude integration: draft quotes and invoices, chase payments,
-record deposits; human approves sends). funds at i3 bank + partner
+record deposits; human approves sends). ruling: the agent-executed
+side is a non-starter for our banking; agents never move money. funds at i3 bank + partner
 banks, fdic up to $3m. 1.75% apy on all balances, unlimited
 sub-accounts, no monthly fees, no minimums. matched lending
 network. positioned at freelancers, nonprofits, e-commerce.
@@ -45,14 +46,14 @@ network. positioned at freelancers, nonprofits, e-commerce.
    revenue arrives via stripe, not customer invoices; creator
    payouts leave via stripe connect. mercury holding company
    operating funds is the right shape for launch.
-3. **the holdings angle worth watching: agent-operable banking.**
-   their chatgpt/claude integration matches our automation-heavy
-   ops philosophy (the ticketing spec, retelldb, the tell adapters).
-   if they confirm international-founder eligibility and the api
-   surface is real, holdings is a strong candidate for a second
-   account later - e.g. an invoicing-facing account for
-   manufacturer/b2b relationships where quotes, invoices and
-   payment chasing are real workflows.
+3. **the holdings "agent-operable banking" angle: not for us.**
+   ruled 2026-10-16: agents never execute banking actions. money
+   movement stays human-gated at every layer - same discipline as
+   the ticketing spec (support proposes, payments executes, a human
+   approves). agents may draft, prepare, and surface information;
+   a human sends. so the chatgpt/claude integration is a non-feature
+   for our banking account, and holdings' remaining case rests on
+   apy and invoicing workflows only.
 4. **sub-account discipline.** both support sub-accounts; we want
    dedicated sub-accounts from day one (operating, tax set-aside,
    reserve) regardless of which bank. note: creator escrow lives in
