@@ -60,7 +60,19 @@ network. positioned at freelancers, nonprofits, e-commerce.
    stripe, never in the bank account, so sub-accounts are for
    company funds only.
 
-## recommendation
+## decision (ruled 2026-10-16)
+
+**mercury.** holdings stays on watch only. the stripe fit is
+confirmed: mercury has a native stripe integration - set mercury as
+the stripe payout bank and stripe batches nightly payouts with
+itemized metadata, syncable to mercury's books view. platform fees
+and subscription revenue land in mercury; creator payouts never
+touch mercury (stripe connect pays creators to their own bank
+accounts after stripe's kyc); creator escrow stays inside stripe
+(charges/transfers, manual payout schedule on the 15th). the bank
+account holds company funds only.
+
+## original recommendation (kept for the record)
 
 mercury first, holdings on watch. apply to mercury once the ein
 lands (their path is proven for exactly our profile). before any
