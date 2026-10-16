@@ -13,3 +13,5 @@ repo.
 - [mercury/us-operations-statement.md](mercury/us-operations-statement.md)
   - the "u.s. ties" paragraph: what we can honestly say pre-launch,
   plus a draft for the application
+- [mercury/mercury-vs-holdings.md](mercury/mercury-vs-holdings.md)
+  - account comparison: mercury vs holdings (getholdings.com)
