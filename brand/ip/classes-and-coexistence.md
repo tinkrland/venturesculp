@@ -27,19 +27,19 @@ factors). working through the ones that matter here:
 - **mark strength**: "sculptura" is suggestive-coined (sculpture
   root), not famous-in-our-lane; the existing holders have no
   presence in our space.
-- **similarity of the marks**: identical word to the sensus mark,
-  near-identical to galderma's sculptra. this is the one factor
-  against us, and it is why the file exists: identical spelling
-  raises the stakes of the other factors being genuinely disjoint,
-  which they are.
+- **similarity of the marks**: identical word to the sensus mark
+  (the real registration in a different industry). galderma's
+  sculptra is a different word, not our spelling, and sits in a
+  business we share nothing with (owner ruling). the identical
+  spelling against sensus raises the stakes of the other factors
+  being genuinely disjoint - which they are.
 
 ## honest adjacency notes
 
-1. **the beauty halo**: jewelry and medical aesthetics both sell
-   into self-presentation. no court case treats that as related
-   commerce, but galderma is large, litigious-by-capacity, and
-   their opposition in a filing window is a real (if unlikely)
-   outcome. counsel prices this.
+1. **galderma/sculptra is a completeness entry, not a risk
+   driver**: different word, different business. it appears in the
+   clearance search like every other neighbor; the file does not
+   build strategy around it.
 2. **fame risk is one-directional**: we are the small party. our
    exposure is an opposition proceeding at filing time, not an
    infringement suit later, as long as we stay in our lanes and

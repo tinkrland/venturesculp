@@ -17,17 +17,16 @@ researched 2026-10-17 via public web search; a formal TESS
   registration, which is why a class 10 medical-device mark is a
   different lane from ours.
 
-## near neighbors worth knowing (adjacency, not blockers)
+## near neighbors, noted for completeness (owner ruling: not
+confusable)
 
-- **"sculptra"** (galderma) - the well-known aesthetic injectable
-  (poly-l-lactic acid dermal filler), medical aesthetics. one letter
-  away from our name, and in a beauty-adjacent space. different
-  industry and class again, but this is the mark a clearance
-  attorney will spend real time on, because (a) the marks are near
-  identical phonetically and (b) jewelry and aesthetic treatments
-  share a broad "beauty" halo. honest read: still very likely
-  coexistent (nobody confuses an earring with an injectable), but
-  the file needs to say we looked.
+- **"sculptra"** (galderma) - the aesthetic injectable
+  (poly-l-lactic acid dermal filler). the owner's ruling stands:
+  sculptra and sculptura are different words, not the same
+  spelling, and the businesses share nothing - medical aesthetics
+  versus jewelry design and manufacture. noted here so the
+  clearance search sweeps it and the record shows it was seen; it
+  is not treated as a risk driver in this file.
 - other sculptura usages exist at small scale (art studios,
   woodcarving tools, decor) - unregistered or narrow; the clearance
   search sweeps these.
