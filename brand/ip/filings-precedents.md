@@ -20,6 +20,20 @@ component. the glue is the product: each component is hard
 the composition is the moat, because building any one part is a
 project and building the chain is the company.
 
+owner refinement: the design-software ingredient is **backend-
+heavy infrastructure, not a cad gui**. paracraft is a deterministic
+openscad compiler with physical-constraint validation and a
+regression harness; tessa is the typed-envelope operator layer
+that translates intent into parameter state; the studio ui is
+only their front. this is why the wrapper accusation fails
+structurally: wrappers are frontend-heavy (someone else's api
+under a gui); sculptura's weight sits in the backend chain, with
+the marketplace and pod components layered on top of the engine.
+for investors this reads as infra depth; for legal it stays
+class 42 "providing temporary use of non-downloadable software"
+- the class text does not care where the software runs, and the
+engine being server-side only strengthens the saas-enough side.
+
 this mapping is also the trademark story: the class set is the
 composition made legible - 42 is the design-software component,
 35 the marketplace component, 40 the pod component, 14 the goods.
