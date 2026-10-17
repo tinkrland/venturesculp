@@ -158,7 +158,10 @@ genuinely new, added to the register:
    stripe, ledger and mercury reconcile before every payout batch;
    any unexplained difference holds the batch. duplicate/retried
    webhook tests are pre-launch money tests.
-12. **seller-of-record and tax mapping** (ari #5, merges risk 8):
+12. **seller-of-record and tax mapping** (ari #5, merges risk 8;
+   ruled 2026-10-17: creator is seller, platform is facilitator,
+   see legalops creators/merchant-of-record.md - remaining work is
+   the per-market tax/invoice mapping at rollout):
    merchant-of-record choice is open; per first route, document
    seller, invoicing party, tax collection/remittance; confirm the
    holding arrangement with stripe before calling it escrow in
