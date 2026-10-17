@@ -15,3 +15,7 @@ enforcement decisions (standing rule).
 - [clearance-and-filing-plan.md](clearance-and-filing-plan.md) -
   the actual steps: clearance search, intent-to-use filing in our
   classes, watch service, counsel gates
+- [filings-precedents.md](filings-precedents.md) - how the
+  precedent companies (shapeways, etsy, redbubble, matrixgold)
+  filed, and the rules that keep sculptura vertical on paper:
+  jewelry-specific descriptions, lead 35/40, 42 as the tool
