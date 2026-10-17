@@ -42,10 +42,27 @@ factors). working through the ones that matter here:
 
 ## honest adjacency notes
 
-1. **galderma/sculptra is a completeness entry, not a risk
-   driver**: different word, different business. it appears in the
-   clearance search like every other neighbor; the file does not
+1. **galderma/sculptra is a completeness entry, not a legal
+   risk driver**: different word, different business. it appears in
+   the clearance search like every other neighbor; the file does not
    build strategy around it.
+2. **capacity asymmetry is real and is accounted for** (owner
+   ruling, 2026-10-17): galderma is a large, listed dermatology
+   company with in-house counsel and a routine practice of policing
+   near marks. the legal case is not close - but the practical risk
+   of a huge rights-holder is not losing, it is the cost and delay
+   of defending: a ttab opposition to one of our applications
+   costs five figures to defend and months of timeline even when we
+   win on the merits. the file treats this as a budget/schedule
+   contingency, not a naming problem:
+   - the likelihood stays low because our filings read medical-free
+     (jewelry, design software, marketplace, manufacturing) and an
+     opposition must plead confusion
+   - the standard outcomes of such oppositions are coexistence
+     agreements or abandonment of the specific class description at
+     issue, both survivable
+   - the watch service runs both directions: we see their new
+     filings near our classes too
 2. **fame risk is one-directional**: we are the small party. our
    exposure is an opposition proceeding at filing time, not an
    infringement suit later, as long as we stay in our lanes and

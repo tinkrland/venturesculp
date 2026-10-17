@@ -19,6 +19,20 @@
 5. **use-in-commerce**: once selling, convert to use-based
    registrations; the mark only hardens with real use.
 
+## contingencies (budget, not fear)
+
+- **counsel read prices the galderma capacity asymmetry**: ask
+  explicitly - if galderma opposes a class 9/42 application, what
+  does defending it cost and how long does it take. five figures and
+  6-12 months is the honest planning answer even for a winning case.
+- if that number is intolerable pre-launch, the cheaper paths exist
+  and are in preference order: narrow the class descriptions at
+  filing (nothing aesthetic, nothing medical-adjacent), or file
+  classes in two waves (14 and 35 first, 9/42 after revenue), or
+  seek a coexistence letter early. none of these change the brand.
+- the opposition risk is a filing-window event, not an operating
+  risk: once registered in our classes, the mark hardens with use.
+
 ## timing
 
 - filing can happen now (intent-to-use basis does not require
