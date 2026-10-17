@@ -128,6 +128,63 @@ sculptura accounts, never mercury.
 - shields: keep custody with stripe verbatim in the terms; counsel
   confirms per market at rollout (legalops, already on the pattern).
 
+## second pass: ari cross-check (2026-10-17)
+
+ari's monthly trigger now publishes its answer as a workspace page
+("ari risk gaps") that we read via the mcp. findings after
+verification against the repo model:
+
+genuinely new, added to the register:
+
+9. **working-capital gating before launch** (ari #1, verified): with
+   $23 company cash, launch discipline is: accept an order only when
+   its full cash outlay is covered by cleared funds or an explicit
+   supplier term; never bridge infrastructure from creator
+   liabilities; checkout stays off when the balance cannot cover
+   the next obligation. a profitable-looking order is not a
+   financeable order.
+10. **fee-base single-sourcing** (ari #3, verified with a caveat):
+   ari found a $5.42/tier discrepancy between its own illustration
+   and the take breakup - the cause was ari using retail where our
+   model uses fee_base (retail minus shipping and insurance), so the
+   model is right and the finding is process: one authoritative fee
+   contract (fee-bearing components, base, rounding, tier version)
+   implemented identically in checkout, calculator, ledger and
+   finance view; before launch, one sample order through all five
+   tiers must agree to the cent across quote, receipt, creator
+   payable and platform fee.
+11. **payout-batch reconciliation gate** (ari #4): idempotent money
+   and supplier actions, order state machine, and a hard rule:
+   stripe, ledger and mercury reconcile before every payout batch;
+   any unexplained difference holds the batch. duplicate/retried
+   webhook tests are pre-launch money tests.
+12. **seller-of-record and tax mapping** (ari #5, merges risk 8):
+   merchant-of-record choice is open; per first route, document
+   seller, invoicing party, tax collection/remittance; confirm the
+   holding arrangement with stripe before calling it escrow in
+   terms; the 15th is a payout schedule subject to eligibility and
+   availability, never an unconditional arrival guarantee.
+13. **product-safety and description claims** (ari #8): a
+   reprint-or-credit remedy does not cover injury, recall, or
+   statutory consumer rights. approved materials, substantiated
+   descriptions, traceable supplier/alloy records,
+   destination-specific compliance evidence (hallmarking already
+   in the routing leg), recall contact path, insurance terms.
+14. **account takeover hardening** (ari #6, cross-ref security leg):
+   passkeys/mfa everywhere, payout-destination changes require
+   deliberate re-verification (never inherit the previous run's
+   approval), and a tested money-movement pause switch.
+
+strengthened existing items: risk 4 (metal drift) gains ari's quote
+completeness rules - routes only sell with a complete landed quote
+with a price-lock window, and one physical sample end-to-end before
+a route goes live; risk 7 (key-person) gains the runbook contents:
+order pause, payout reconciliation, incident comms, and manual
+acceptance kept within supervisable capacity.
+
+ari behaved (no scale inflation) because the trigger prompt is
+fenced with model facts and explicit exclusions; keep it that way.
+
 ## standing notes
 
 - risks 1 and 2 change the payout/take numbers the most; both get
