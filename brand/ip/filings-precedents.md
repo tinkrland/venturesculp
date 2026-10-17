@@ -7,7 +7,26 @@ trademark filings, and what can sculptura file so the paper trail
 says "vertical jewelry design and manufacturing platform" rather
 than "generic saas"?
 
-## the precedent archetypes
+## the composition framing (owner ruling 2026-10-17)
+
+sculptura is not "a vertical platform" in the singular sense; it is
+a **composition of three known categories**: design software x
+marketplace/ecommerce x print-on-demand. the precedent archetypes
+below are not competitors or comparisons - they are the
+**ingredients**: matrixgold is the design-software component,
+etsy the marketplace component, redbubble/shapeways the pod
+component. the glue is the product: each component is hard
+(jewelry-grade cad, escrowed payouts, castable validation), and
+the composition is the moat, because building any one part is a
+project and building the chain is the company.
+
+this mapping is also the trademark story: the class set is the
+composition made legible - 42 is the design-software component,
+35 the marketplace component, 40 the pod component, 14 the goods.
+a single-class filing would be the wrapper mistake; the multi-
+class filing IS the honest description of a glued business.
+
+## the precedent archetypes (as ingredients)
 
 1. **shapeways** (closest structural ancestor): publicly describes
    itself as a "3d printing marketplace and service company" whose
