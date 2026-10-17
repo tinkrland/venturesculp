@@ -53,10 +53,8 @@ souls: designing the piece is 42 ("design of products for others"),
 producing the piece is 40 ("production of goods for others" -
 custom manufacturing). sculptura does both, so both get filed.
 
-one dependency, already an open ruling elsewhere: the class 40
-description wording depends on the merchant-of-record decision
-(finops risk register, ari cross-check #12). "custom manufacture
-of jewelry for others" reads one way if we are the seller of
-record, another if we arrange manufacture. counsel drafts the
-class 40 text after the mor question is answered; the other classes
-are mor-independent.
+the mor ruling (2026-10-17, creators/merchant-of-record.md) is
+option 1: creator is seller, platform facilitates. so the class 40
+text uses facilitator language: arranging for the manufacture of
+jewelry for others. counsel confirms the final wording; the other
+classes are unchanged.
