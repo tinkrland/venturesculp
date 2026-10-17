@@ -27,6 +27,17 @@ statement, paypal receipt, apple pay record - is **sculptura's**,
 configured by the platform. it never carries the creator's legal
 name. buyers see the shop handle (trade name) in the receipt ui.
 
+mechanics (stripe, both directions):
+
+- buyer statement: platform descriptor prefix + dynamic per-charge
+  suffix, rendered like `sculptura* jewelsbyjules` - the shop
+  handle in the suffix for recognition (an unrecognized charge is
+  a top chargeback source), sculptura as the prefix, legal names
+  never rendered on any surface.
+- creator payout statement: the deposit arrives over stripe rails
+  with descriptor `stripe` by default, platform-configurable to
+  `sculptura`. never any buyer data on the creator side.
+
 creator legal identity lives only in: stripe connect kyc, payout
 and banking records, and private platform records. it never renders
 on any buyer-facing surface - consistent with the standing
