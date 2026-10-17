@@ -41,6 +41,17 @@ banking lives in bankingops, financial modeling in finops.
   regardless of founder residence. confirm current fincen status
   before assuming; rules have moved more than once.
 
+## creator terms of record (drafted, counsel review pending)
+
+- [x] reverse ip indemnity + parametric safe harbor
+  ([creators/ip-indemnity-and-safe-harbor.md](creators/ip-indemnity-and-safe-harbor.md))
+- [x] manufacturing warranty cap (api validation scope,
+  reprint-or-credit sole remedy)
+  ([creators/manufacturing-warranty-limitation.md](creators/manufacturing-warranty-limitation.md))
+- [x] listing liability + automated takedown posture
+  ([creators/takedown-and-listing-liability.md](creators/takedown-and-listing-liability.md))
+- [ ] counsel review of all three before enforceable terms go live
+
 ## later, post-launch (do not block banking or launch)
 
 - [ ] nm gross receipts registration (crs number): only if selling
