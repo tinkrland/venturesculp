@@ -24,9 +24,15 @@ factors). working through the ones that matter here:
   is the strongest factor in our favor.
 - **channels and customers**: hospitals/dermatology clinics versus
   consumer marketplace shoppers and jewelry creators. disjoint.
-- **mark strength**: "sculptura" is suggestive-coined (sculpture
-  root), not famous-in-our-lane; the existing holders have no
-  presence in our space.
+- **mark strength and etymology**: "sculptura" is not a coined
+  blend at all - it is the latin noun *sculptura* ("a carving, a
+  sculpture", from *sculpere*, to carve), a real word naming exactly
+  what the platform does. sculptra, by contrast, is a modern
+  pharmaceutical coinage. different etymological objects entirely,
+  which strengthens the owner ruling that they are different words.
+  as a mark, a latin noun reads as suggestive for
+  sculpture-adjacent goods (jewelry design), which is registrable
+  and strong; the existing holders have no presence in our space.
 - **similarity of the marks**: identical word to the sensus mark
   (the real registration in a different industry). galderma's
   sculptra is a different word, not our spelling, and sits in a
